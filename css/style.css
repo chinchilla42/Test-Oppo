@@ -1,0 +1,16 @@
+/* Right align the success value */
+input {
+    text-align: right;
+}
+  
+/* Display the Submit button in it's own box. 
+    Add some spacing around the element. */
+button {
+    display: block;
+    margin: 20px 0px 10px;
+}
+
+/* Set a mono-space font on the output  */
+.output {
+    font-family: monospace, monospace;
+  }
